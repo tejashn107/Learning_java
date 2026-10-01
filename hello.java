@@ -5,6 +5,7 @@ public class hello {
         System.out.println("i like a mude");
         System.out.println("it s really good");
         System.out.println("it cost is 20 rupees");
+        System.out.println("it is a good product");
     }
 
 }

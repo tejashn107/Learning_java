@@ -59,6 +59,14 @@ public class hello {
         } else {
             System.out.println("isjavaisboring = " + isjavaisboring);
         }
+
+        // reference
+
+        String name = "Tejas";
+        String food = "Mude";
+        System.out.println("your favourite food = " + food + " " + name + " and your name = " + name);
+        System.out.println("name = " + name);
+        System.out.println("gps = " + gps);
     }
 
 }

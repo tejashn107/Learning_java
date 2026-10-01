@@ -1,0 +1,47 @@
+[33mcommit 695433d0bab0c2173e9ec36aa2bc6db9142fe11e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Thu Oct 1 18:54:58 2026 +0530
+
+    I add a primitives
+
+[33mcommit f06ccb96f798874aec33204fe9da70a41e6089a0[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Thu Oct 1 18:11:59 2026 +0530
+
+    add a new line
+
+[33mcommit 131da8e0da924f46550ec365f9e924bfce92e28e[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Thu Oct 1 18:05:23 2026 +0530
+
+    Fix Java gitignore
+
+[33mcommit 5413bcb33f108baaddb536c3b849d65e7aaefe9c[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Thu Oct 1 18:03:44 2026 +0530
+
+    Add Java gitignore
+
+[33mcommit b90a3dc434b5db320804f842d929d46d1d8b0696[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Thu Oct 1 18:01:02 2026 +0530
+
+    Add hello Java program
+
+[33mcommit caaeedb3c325fe4e666f64e2b44baaf231bdb18b[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Wed Sep 16 19:56:27 2026 +0530
+
+    Added Java program
+
+[33mcommit 984d69a31b0a776e46ed05f518c5350d8f99c4df[m
+Author: Tejas H N <tejashn107@gmail.com>
+Date:   Wed Sep 16 19:44:17 2026 +0530
+
+    add main.java
+
+[33mcommit 7dbc0a364432946577287b7ac4c6826b6841280a[m
+Author: Teja H N <tejashn107@gmail.com>
+Date:   Mon Sep 14 18:25:25 2026 +0530
+
+    Initial commit

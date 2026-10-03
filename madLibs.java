@@ -13,7 +13,7 @@ public class madLibs {
 
         System.out.print("Enter an adjective (description): ");
         adjective1 = scanner.nextLine();
-        System.out.print("Enter a noun (animal or person)");
+        System.out.print("Enter a noun (animal or person): ");
         noun1 = scanner.nextLine();
         System.out.print("Enter a adjective (description): ");
         adjective2 = scanner.nextLine();

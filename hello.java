@@ -109,6 +109,12 @@ public class hello {
         System.out.println("b = " + b);
         System.out.println("a = " + a);
 
+        // Order of operations [ parentheses, exponents, multiplication and division,
+        // addition and subtraction ]
+
+        double result = 3 + 4 * (7 - 5) / 2.0;
+        System.out.println("result = " + result);
+
     }
 
 }

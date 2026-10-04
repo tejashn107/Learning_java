@@ -67,6 +67,21 @@ public class hello {
         System.out.println("your favourite food = " + food + " " + name + " and your name = " + name);
         System.out.println("name = " + name);
         System.out.println("gps = " + gps);
+
+        // Arithmetic operators
+
+        int x = 10;
+        int y = 5;
+        int sum = x + y;
+        int difference = x - y;
+        int product = x * y;
+        int quotient = x / y;
+        int remainder = x % y;
+        System.out.println("sum = " + sum);
+        System.out.println("difference = " + difference);
+        System.out.println("product = " + product);
+        System.out.println("quotient = " + quotient);
+        System.out.println("remainder = " + remainder);
     }
 
 }

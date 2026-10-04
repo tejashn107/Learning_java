@@ -82,6 +82,20 @@ public class hello {
         System.out.println("product = " + product);
         System.out.println("quotient = " + quotient);
         System.out.println("remainder = " + remainder);
+
+        // Augmented assignment operators
+
+        double z = 10;
+        double w = 5;
+        z += w;
+        z -= w;
+        z *= w;
+        z /= w;
+        System.out.println("z = " + z);
+        System.out.println("w = " + w);
+        System.out.println("z = " + z);
+        System.out.println("w = " + w);
+
     }
 
 }

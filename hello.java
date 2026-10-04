@@ -96,6 +96,19 @@ public class hello {
         System.out.println("z = " + z);
         System.out.println("w = " + w);
 
+        // Increment and decrement operators
+        int a = 10;
+        int b = 5;
+
+        a++;
+        a++;
+        a++;
+        b--;
+        b--;
+        b--;
+        System.out.println("b = " + b);
+        System.out.println("a = " + a);
+
     }
 
 }

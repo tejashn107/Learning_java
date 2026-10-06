@@ -115,6 +115,15 @@ public class hello {
         double result = 3 + 4 * (7 - 5) / 2.0;
         System.out.println("result = " + result);
 
+        double result1 = (3 + 4) * (7 - 5) / 2.0;
+        System.out.println("result1 = " + result1);
+
+        long population = 7_900_000_000L;
+        System.out.println("population = " + population);
+
+        char letter = '\u0041';
+        System.out.println("letter = " + letter);
+
     }
 
 }

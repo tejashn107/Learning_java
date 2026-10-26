@@ -124,6 +124,14 @@ public class hello {
         char letter = '\u0041';
         System.out.println("letter = " + letter);
 
+        int age1 = 20;
+        if (age1 >= 18) {
+            System.out.println("You are an adult.");
+
+        } else {
+            System.out.println("You are not an adult.");
+        }
+
     }
 
 }

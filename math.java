@@ -58,17 +58,15 @@ public class math {
         double radius;
         double circumference;
         double area;
-        double volume;
 
         System.out.println("Enter the radius: ");
         radius = scanner.nextDouble();
 
         circumference = 2 * Math.PI * radius;
         area = Math.PI * Math.pow(radius, 2);
-        volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
 
         System.out.println("Area is : " + area + "cm²");
-        System.out.println("volume is : " + volume + "cm³");
+
         System.out.println("Circumference is : " + circumference + "cm");
 
         scanner.close();

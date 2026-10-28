@@ -29,6 +29,27 @@ public class mainn {
         System.out.printf("%.1f\n", price2);
         System.out.printf("%.8f\n", price3);
 
+        // flags
+
+        // + = output a plus
+        // , = comma groping separator
+        // ( = negative numbers are enclosed in ()
+        // space = display a minus if negative, space if positive
+
+        double price4 = 9.33;
+        double price5 = 100.13;
+        double price6 = -54.34;
+
+        System.out.printf("( = negative numbers are enclosed in ()");
+        System.out.printf("%(.2f\n", price4);
+        System.out.printf("%(.2f\n", price5);
+        System.out.printf("%(.2f\n", price6);
+
+        System.out.printf(" space = display a minus if negative, space if positive");
+        System.out.printf("% .2f\n", price4);
+        System.out.printf("% .2f\n", price5);
+        System.out.printf("% .2f\n", price6);
+
     }
 
 }

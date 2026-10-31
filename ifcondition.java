@@ -7,12 +7,16 @@ public class ifcondition {
 
         String name;
         int age;
+        boolean isStudent;
 
         System.out.println("Enter your name:");
         name = scanner.nextLine();
 
         System.out.println("Enter your age:");
         age = scanner.nextInt();
+
+        System.out.println("is you are a student");
+        isStudent = scanner.nextBoolean();
 
         // Name check
         if (name.isEmpty()) {
@@ -26,6 +30,12 @@ public class ifcondition {
             System.out.println("You are an adult.");
         } else {
             System.out.println("You are not an adult.");
+        }
+
+        if (isStudent = true) {
+            System.out.println("you are a student");
+        } else {
+            System.out.println("you are not a student");
         }
 
         scanner.close();
